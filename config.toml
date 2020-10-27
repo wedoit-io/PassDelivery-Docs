@@ -1,0 +1,122 @@
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://examplesite.com/"
+DefaultContentLanguage = "it"
+# theme
+theme = "dot-hugo-documentation-theme"
+# site title
+title = "Passdelivery Documentation"
+# disable language
+disableLanguages = []
+# google analytics
+googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = "images/passdelivery.png"
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = "images/passdelivery-white.png"
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#660000"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+################################ italian Language ######################
+[Languages.it]
+languageName = "It"
+languageCode = "it-it"
+weight = 1
+copyright = "Copyright © 2020 - by [WEDO Srl](https://www.wedo.io/)"
+
+# banner
+[Languages.it.params.banner]
+title = "Documentazione Passdelivery"
+subtitle = "Trova rapidamente consigli e risposte dal nostro team di supporto o contattaci"
+bg_image = "images/banner.jpg"
+placeholder = "Cosa stai cercando ?"
+
+# call to action
+[Languages.it.params.cta]
+enable = true
+title = "Non trovi una risposta alla tua domanda?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+# call to action button
+[Languages.it.params.cta.button]
+enable = false
+label = "contattaci"
+link = "contact"
+
+
+################## italian navigation #################
+[[Languages.it.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.it.menu.main]]
+name = "Faq"
+url = "faq"
+weight = 2
+
+[[Languages.it.menu.main]]
+name = "contatti"
+url = "contact"
+weight = 3
+
+# Dropdown menu
+[[Languages.it.menu.main]]
+weight = 4
+name = "docs"
+hasChildren = true
+
+  [[Languages.it.menu.main]]
+  parent = "docs"
+  name = "Esercente"
+  url = "esercente"
+  weight = 1
+
+  [[Languages.it.menu.main]]
+  parent = "docs"
+  name = "Rider"
+  url = "rider"
+  weight = 2
+
+  [[Languages.it.menu.main]]
+  parent = "docs"
+  name = "Customer"
+  url = "customer"
+  weight = 3
