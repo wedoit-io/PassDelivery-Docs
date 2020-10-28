@@ -1,6 +1,7 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+#baseURL = "https://examplesite.com/"
+baseURL = ""
 DefaultContentLanguage = "it"
 # theme
 theme = "PassDelivery-Docs-Theme"
