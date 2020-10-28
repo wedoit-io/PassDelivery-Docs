@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Passdelivery Documentation</title>
-    <link>/</link>
+    <link>https://wedoit-io.github.io/PassDelivery-Docs/</link>
     <description>Recent content on Passdelivery Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>Copyright © 2020 - by [WEDO Srl](https://www.wedo.io/)</copyright>
-    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://wedoit-io.github.io/PassDelivery-Docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>/esercente/linux/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/esercente/linux/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -23,10 +23,10 @@ This is a simple note.
     
     <item>
       <title>Linux</title>
-      <link>/rider/linux/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/linux/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/rider/linux/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/rider/linux/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -36,10 +36,10 @@ This is a simple note.
     
     <item>
       <title>Installation</title>
-      <link>/customer/install/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/customer/install/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/_index.en/</guid>
       <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
 Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Dot theme by following this documentation
@@ -49,10 +49,10 @@ Alternatively, you can download the theme as .</description>
     
     <item>
       <title>Mac OS</title>
-      <link>/esercente/mac/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/mac/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/esercente/mac/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/mac/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -62,10 +62,10 @@ This is a simple note.
     
     <item>
       <title>Mac OS</title>
-      <link>/rider/mac/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/mac/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/rider/mac/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/rider/mac/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -75,10 +75,10 @@ This is a simple note.
     
     <item>
       <title>Configuration</title>
-      <link>/customer/configuration/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/customer/configuration/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/customer/configuration/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/customer/configuration/_index.en/</guid>
       <description>Global site parameters On top of Hugo global configuration, Dot lets you define the following parameters in your config.toml (here, values are default).
 Note that some of these parameters are explained in details in other sections of this documentation.
 [params] # Prefix URL to edit current page.  # Useful to give opportunity to people to create merge request for your doc. # See the config.toml file from this documentation site to have an example.</description>
@@ -86,10 +86,10 @@ Note that some of these parameters are explained in details in other sections of
     
     <item>
       <title>Routing</title>
-      <link>/esercente/routing/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/routing/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/esercente/routing/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/routing/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -99,10 +99,10 @@ This is a simple note.
     
     <item>
       <title>Routing</title>
-      <link>/rider/routing/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/routing/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/rider/routing/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/rider/routing/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -112,10 +112,10 @@ This is a simple note.
     
     <item>
       <title>Customization</title>
-      <link>/customer/customization/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/customer/customization/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/customer/customization/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/customer/customization/_index.en/</guid>
       <description>Dot has been built to be as configurable as possible.
 Change the logo In config.toml you will find a logo variable. you can change your logo there.
 The size of the logo will adapt automatically
@@ -125,10 +125,10 @@ If you need to change this default behavior, create a new file in layouts/partia
     
     <item>
       <title>Ubuntu</title>
-      <link>/esercente/ubuntu/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/ubuntu/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/esercente/ubuntu/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/ubuntu/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -138,10 +138,10 @@ This is a simple note.
     
     <item>
       <title>Ubuntu</title>
-      <link>/rider/ubuntu/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/ubuntu/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/rider/ubuntu/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/rider/ubuntu/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -151,10 +151,10 @@ This is a simple note.
     
     <item>
       <title>Elements</title>
-      <link>/customer/elements/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/customer/elements/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/customer/elements/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/customer/elements/_index.en/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Emphasis Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with asterisks or underscores.
 Combined emphasis with asterisks and underscores.
@@ -168,10 +168,10 @@ You can use numbers for reference-style link definitions</description>
     
     <item>
       <title>Windows</title>
-      <link>/esercente/windows/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/windows/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/esercente/windows/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/windows/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
@@ -181,10 +181,10 @@ This is a simple note.
     
     <item>
       <title>Windows</title>
-      <link>/rider/windows/_index.en/</link>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/windows/_index.en/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>/rider/windows/_index.en/</guid>
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/rider/windows/_index.en/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 This is a simple note.
  This is a simple tip.
