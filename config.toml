@@ -3,7 +3,7 @@
 baseURL = "https://examplesite.com/"
 DefaultContentLanguage = "it"
 # theme
-theme = "dot-hugo-documentation-theme"
+theme = "PassDelivery-Docs-Theme"
 # site title
 title = "Passdelivery Documentation"
 # disable language
