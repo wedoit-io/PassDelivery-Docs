@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/_index.en/</loc>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/_index.en/</loc>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/sottopagina/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -78,13 +83,18 @@
   </url>
   
   <url>
-    <loc>https://wedoit-io.github.io/PassDelivery-Docs/customer/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/</loc>
+    <lastmod>2020-10-28T10:56:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wedoit-io.github.io/PassDelivery-Docs/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/esercente/primo-contenuto/</loc>
+    <lastmod>2020-10-28T10:56:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wedoit-io.github.io/PassDelivery-Docs/customer/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>

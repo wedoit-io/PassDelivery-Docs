@@ -7,20 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>Copyright © 2020 - by [WEDO Srl](https://www.wedo.io/)</copyright>
-    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://wedoit-io.github.io/PassDelivery-Docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linux</title>
-      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/_index.en/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/linux/_index.en/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-This is a simple note.
- This is a simple tip.
- This is a simple info.
-  This is first tab  this is second tab  this is third tab    Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 28 Oct 2020 10:56:08 +0100</lastBuildDate><atom:link href="https://wedoit-io.github.io/PassDelivery-Docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://wedoit-io.github.io/PassDelivery-Docs/rider/linux/_index.en/</link>
@@ -32,19 +19,6 @@ This is a simple note.
  This is a simple tip.
  This is a simple info.
   This is first tab  this is second tab  this is third tab    Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi.</description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/_index.en/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://wedoit-io.github.io/PassDelivery-Docs/customer/install/_index.en/</guid>
-      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
-Create your project Hugo provides a new command to create a new website.
-hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Dot theme by following this documentation
-This theme&amp;rsquo;s repository is: https://github.com/themefisher/dot-hugo-documentation-theme.git
-Alternatively, you can download the theme as .</description>
     </item>
     
     <item>
@@ -190,6 +164,15 @@ This is a simple note.
  This is a simple tip.
  This is a simple info.
   This is first tab  this is second tab  this is third tab    Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi.</description>
+    </item>
+    
+    <item>
+      <title>Primo Contenuto</title>
+      <link>https://wedoit-io.github.io/PassDelivery-Docs/esercente/primo-contenuto/</link>
+      <pubDate>Wed, 28 Oct 2020 10:56:08 +0100</pubDate>
+      
+      <guid>https://wedoit-io.github.io/PassDelivery-Docs/esercente/primo-contenuto/</guid>
+      <description>pippo</description>
     </item>
     
   </channel>
