@@ -1,1 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/esercente/linux/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/rider/linux/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/requirements/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/install/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/esercente/mac/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/rider/mac/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/configuration/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/esercente/routing/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/rider/routing/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/customization/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/esercente/ubuntu/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/rider/ubuntu/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/elements/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/esercente/windows/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/rider/windows/_index.en/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/customer/</loc><lastmod>2018-12-29T11:02:05+06:00</lastmod></url><url><loc>/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>/esercente/</loc><lastmod>2018-12-28T11:02:05+06:00</lastmod></url><url><loc>/rider/</loc><lastmod>2018-12-28T11:02:05+06:00</lastmod></url><url><loc>/categories/</loc></url><url><loc>/faq/</loc></url><url><loc>/contact/</loc></url><url><loc>/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/esercente/linux/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/linux/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/requirements/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/install/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/esercente/mac/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/mac/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/configuration/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/esercente/routing/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/routing/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/customization/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/esercente/ubuntu/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/ubuntu/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/elements/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/esercente/windows/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/windows/_index.en/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customer/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/esercente/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rider/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
