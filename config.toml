@@ -83,10 +83,10 @@ link = "contact"
 
 
 ################## italian navigation #################
-[[Languages.it.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[Languages.it.menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[Languages.it.menu.main]]
 name = "Faq"
@@ -94,30 +94,35 @@ url = "faq"
 weight = 2
 
 [[Languages.it.menu.main]]
-name = "contatti"
-url = "contact"
+name = "applicazione"
+url = "http://uat-passdelivery.wedo.io/"
 weight = 3
 
+#[[Languages.it.menu.main]]
+#name = "contatti"
+#url = "contact"
+#weight = 3
+
 # Dropdown menu
-[[Languages.it.menu.main]]
-weight = 4
-name = "docs"
-hasChildren = true
+#[[Languages.it.menu.main]]
+#weight = 4
+#name = "docs"
+#hasChildren = true
 
-  [[Languages.it.menu.main]]
-  parent = "docs"
-  name = "Esercente"
-  url = "esercente"
-  weight = 1
+#  [[Languages.it.menu.main]]
+#  parent = "docs"
+#  name = "Esercente"
+#  url = "esercente"
+#  weight = 1
 
-  [[Languages.it.menu.main]]
-  parent = "docs"
-  name = "Rider"
-  url = "rider"
-  weight = 2
+#  [[Languages.it.menu.main]]
+#  parent = "docs"
+#  name = "Rider"
+#  url = "rider"
+#  weight = 2
 
-  [[Languages.it.menu.main]]
-  parent = "docs"
-  name = "Customer"
-  url = "customer"
-  weight = 3
+#  [[Languages.it.menu.main]]
+#  parent = "docs"
+#  name = "Customer"
+#  url = "customer"
+#  weight = 3
